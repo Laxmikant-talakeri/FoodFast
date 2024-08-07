@@ -4,12 +4,12 @@ This project is a comprehensive web application inspired by Zomato, designed to 
 # Food Ordering App Screenshots
 
 
-### 1. Menu Page
-![Menu Page](./webpages/menu.png)
+### 1.Homepage
+![Homepage](./webpages/menu.png)
 This screenshot shows the menu page where users can explore a diverse array of dishes including salads, rolls, desserts, sandwiches, cakes, pure veg options, pasta, and noodles.
 
-### 2. Homepage
-![Homepage](./webpages/dishes.png)
+### 2.Menu Page
+![ Menu Page](./webpages/dishes.png)
 The homepage provides an option for users to order their favorite food. It includes a vibrant image of a dish and a call-to-action to view the menu. There's also a prompt to download the Tomato app for a better experience.
 
 ### 3. Login Page
